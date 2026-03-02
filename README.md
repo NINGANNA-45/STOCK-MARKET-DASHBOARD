@@ -11,4 +11,4 @@ HTML/CSS/JAVASCRIPT
 Custom CSS
 Charts.js
 
-The Stock Market Dashboard demonstrates the practical implementation of frontend development concepts. It highlights the ability to build interactive, data-driven web applications and showcases skills relevant to modern web development roles.
+The Stock Market Dashboard demonstrates the practical implementation of frontend development concepts. It highlights the ability to build interactive, data-driven web applications and showcases skills relevant to modern web development roles......
